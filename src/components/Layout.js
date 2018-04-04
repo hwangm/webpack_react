@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
     <Container>
       <Link to="/">
         <Header as="h1" className={h1}>
-          webpack-for-react
+          Is there a difference
         </Header>
       </Link>
       {children}
